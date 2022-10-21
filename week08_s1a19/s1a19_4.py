@@ -5,14 +5,14 @@ numberList = []
 
 # 將數字加入列表
 for i in range(10):
-    i = int(input("輸入任意數字: "))
-    numberList.append(i)
+    a = int(input(f"輸入第{i+1}項數字: "))
+    numberList.append(a)
 
+a = 0
 for i in range(len(numberList)):
-    a = 0
     a += numberList[i]
 
-avg = a/len(numberList)+1
+avg = a/len(numberList)
 
 print("列表平均值: ",avg)
 print("列表最大值: ",max(numberList))
