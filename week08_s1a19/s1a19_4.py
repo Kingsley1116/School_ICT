@@ -8,11 +8,10 @@ for i in range(10):
     a = int(input(f"輸入第{i+1}項數字: "))
     numberList.append(a)
 
-a = 0
-for i in range(len(numberList)):
-    # 求總和
-    a += numberList[i]
+# 計算總和
+a = sum(numberList)
 
+# 計算平均值
 avg = a/len(numberList)
 
 print("列表平均值: ",avg)
