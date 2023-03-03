@@ -12,3 +12,5 @@
 - [第7週--FChart流程圖與多向選擇結構(if-elif-else)](week07_s1a19)
 - [第8週--串列-清單(List)與字串(String)](week08_s1a19)
 - [第23週--FChart流程圖與單層for迴圈](week23_s1a19)
+- [第26週--列表(List)與字串(String)](week26_s1a19)
+- [第27週--函數的應用(function)](week27_s1a19)
