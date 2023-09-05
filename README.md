@@ -2,8 +2,12 @@
 - `A place that saves the school programs`
 - `流程圖在協作平台`
 ## Links
-- [協作平台](https://sites.google.com/choikou.edu.mo/never-gonna-give-you-up/)
+- [協作平台]()
 ---
+### S2
+- [第2-3週--選擇結構、清單與字串和迴圈加強練習](S2/week02_s2a12)
+
+### S1
 - [第2週--基本概念(資料型別與變數)&作品線上展示分享](week02_s1a19)
 - [第3週--輸入(input)與輸出(print)](week03_s1a19)
 - [第4週--運算子與運算式](week04_s1a19)
