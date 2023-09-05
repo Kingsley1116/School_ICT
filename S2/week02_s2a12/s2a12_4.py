@@ -7,9 +7,9 @@ print("請猜1-100中的隨機的年齡是多少，你共有5次機會! \n")
 try:
     randomNumber: int = random.randint(1, 100)
 
-    i:int = 1
+    i = 1
     while i <= 5:
-        guess: int = int(input("請輸入你猜測的年齡: "))
+        guess = int(input("請輸入你猜測的年齡: "))
 
         if guess == randomNumber:
             print("你猜對了!")
